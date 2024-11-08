@@ -58,7 +58,7 @@ The _build_ folder has scripts for building the ElasticSearch indexes
 used for discovery. The _cloud_ folder follows the structure of the input
 folders:
 ```
-$ ls results7/cloud/AECHO_18750101
+$ ls results/cloud/AECHO_18750101
 AECHO_18750101_images.zip  manifest.json  odw.json  odw.zip
 ```
 The _AECHO_18750101_images.zip_ file represents the layout we use for uploading
